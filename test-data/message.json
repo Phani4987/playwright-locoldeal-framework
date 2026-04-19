@@ -1,0 +1,6 @@
+{
+  "signup": {
+    "text": "Verify your email",
+    "error-message":" Username already exists. Please try a different username. "
+  }
+}

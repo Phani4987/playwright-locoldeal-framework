@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","21887","Signup - Error Flow","","2026-04-19","passed","2026-04-19","Partner Signup Module","partnersignup.spec.js","",""
