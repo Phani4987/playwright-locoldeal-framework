@@ -15,7 +15,7 @@
     "allure-playwright": "^3.7.1"
   },
   "scripts": {
-    "test": "playwright test",
-    "report": "playwright show-report"
+    "test": "npx playwright test",
+    "report": "npx playwright show-report"
   }
 }
