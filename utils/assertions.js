@@ -3,30 +3,26 @@ const { expect } = require('@playwright/test');
 class Assertions {
 
     async verifySignupError(page, errorText) {
-        const errorLocator = page.getByText(errorText);
 
-        await expect(errorLocator).toBeVisible({ timeout: 10000 });
+        const alertPopup = page.locator('[role="alert"]');
 
-        const actualError = (await errorLocator.textContent()).trim();
+        await expect(alertPopup).toBeVisible({ timeout: 15000 });
 
-        console.log("❌ Actual Error Message:", actualError);
-
-        // normalize both sides (VERY IMPORTANT in real frameworks)
-        expect(actualError.trim()).toContain(errorText.trim());
+        await expect(alertPopup).toContainText(errorText);
     }
-
 
     async verifySignupSuccess(page, successText) {
 
         const headingLocator = page.getByRole('heading', { name: successText });
 
         await expect(headingLocator).toBeVisible({ timeout: 15000 });
+    }
 
-        const actualHeading = (await headingLocator.textContent()).trim();
+    async verifysigninsuccess(page, successText) {
 
-        console.log("✅ Actual Success Heading:", actualHeading);
+        const buttonLocator = page.getByRole('button', { name: successText });
 
-        expect(actualHeading).toBe(successText.trim());
+        await expect(buttonLocator).toBeVisible({ timeout: 15000 });
     }
 }
 

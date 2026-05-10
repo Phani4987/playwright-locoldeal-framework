@@ -1,24 +1,27 @@
 const { test } = require('../fixtures/baseTest');
+const { gettestdata } = require('../utils/Testdatautil');
 const assertions = require('../utils/assertions');
 
-const data = require('../test-data/partnersignupdata.json');
-const messages = require('../test-data/message.json');
+const [{ signup }] = require('../test-data/message.json');
 const config = require('../config/config');
 
-test.describe('Partner Signup Module', () => {
+const testdata = gettestdata('test-data/partnersignupdata.json');
 
-    test.beforeEach(async ({ page }) => {
+testdata.forEach((userData, index) => {
+
+    test(`Signup Error Flow - ${index}`, async ({ signup: signupPage, page }) => {
+
         await page.goto(config.baseURL);
-    });
 
-    test('Signup - Error Flow', async ({ signup, page }) => {
-
-        await signup.dopartnersignup(data);
+        await signupPage.dopartnersignup(userData);
 
         await assertions.verifySignupError(
             page,
-            messages.signup['error-message']
+            signup['userexitserror']
         );
+
+       
+
     });
 
 });

@@ -1,6 +1,12 @@
-{
+[{
   "signup": {
     "text": "Verify your email",
-    "error-message":" Username already exists. Please try a different username. "
+    "error-message":"Username already exists. Please try a different username. ",
+    "userexitserror":"Username already exists. Please try a different username. "
+  },
+  "signin":
+  {
+    "successmessage":" Profile & Brand "
+
   }
-}
+}]

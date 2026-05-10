@@ -1,0 +1,57 @@
+# Instructions
+
+- Following Playwright test failed.
+- Explain why, be concise, respect Playwright best practices.
+- Provide a snippet of code with the fix, if possible.
+
+# Test info
+
+- Name: partnersignup.spec.js >> Signup Error Flow - 0
+- Location: tests\partnersignup.spec.js:12:5
+
+# Error details
+
+```
+Error: page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://locoldeal.com/", waiting until "load"
+
+```
+
+```
+Error: page.screenshot: Target page, context or browser has been closed
+```
+
+# Test source
+
+```ts
+  1  | class Screenshot {
+  2  |     async takescreenshot(page, name) {
+  3  | 
+  4  |         const now = new Date();
+  5  | 
+  6  |         const timestamp = now.toLocaleString('en-IN', {
+  7  |             timeZone: 'Asia/Kolkata',
+  8  |             year: 'numeric',
+  9  |             month: '2-digit',
+  10 |             day: '2-digit',
+  11 |             hour: '2-digit',
+  12 |             minute: '2-digit',
+  13 |             second: '2-digit',
+  14 |             hour12: false
+  15 |         }).replace(/[/:, ]/g, '-');
+  16 | 
+  17 |         const path = `reports/screenshots/${name}-${timestamp}.png`;
+  18 | 
+> 19 |         await page.screenshot({
+     |                    ^ Error: page.screenshot: Target page, context or browser has been closed
+  20 |             path,
+  21 |             fullPage: true
+  22 |         });
+  23 | 
+  24 |         return path;
+  25 |     }
+  26 | }
+  27 | 
+  28 | module.exports = new Screenshot();
+```

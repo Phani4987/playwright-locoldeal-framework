@@ -1,2 +1,4 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","21887","Signup - Error Flow","","2026-04-19","passed","2026-04-19","Partner Signup Module","partnersignup.spec.js","",""
+"","2567","Signup Error Flow - 1","","2026-04-23","failed","2026-04-23","","partnersignup.spec.js","",""
+"","1084","Partner Login API","","2026-05-10","failed","2026-05-10","Authentication API","auth.spec.js","",""
+"","2708","Signup Error Flow - 0","","2026-04-23","failed","2026-04-23","","partnersignup.spec.js","",""

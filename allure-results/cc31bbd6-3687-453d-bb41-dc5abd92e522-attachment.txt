@@ -1,2 +1,0 @@
-enter business details
-❌ Actual Error Message: Username already exists. Please try a different username.

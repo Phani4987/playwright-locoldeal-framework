@@ -4,14 +4,16 @@ module.exports = {
   retries: 1,
 
   use: {
-    headless: true,
+    headless: false, 
     screenshot: 'only-on-failure',
     video: 'retain-on-failure',
     trace: 'on-first-retry',
+
+    
   },
 
   reporter: [
     ['line'],
-    ['allure-playwright']  // ✅ Add this
+    ['allure-playwright']
   ],
 };
