@@ -1,0 +1,37 @@
+token captured eyJhbGciOiJIUzUxMiJ9.eyJVc2VyQWRkcmVzc0xpbmUxIjoiNzQyNSBXZXN0IENvbGZheCBBdmVudWUgU3VpdGUgMjEwIERlbnZlciwgQ08gODAyMTQgVW5pdGVkIFN0YXRlcyIsIlVzZXJBZGRyZXNzTGluZTIiOm51bGwsInN1YiI6IkVUSEFOTUlMTEVSIiwiRW1haWwiOiJldGhhbm1pbGxlcjQ5ODdAZ21haWwuY29tIiwiRmlyc3ROYW1lIjoiRVRIQU4iLCJVc2VyUm9sZSI6W3siaWQiOjEsInJvbGVOYW1lIjoiU0lURV9QQVJUTkVSIiwiZGVzY3JpcHRpb24iOiJTSVRFIFBBUlRORVIifV0sIkxhc3ROYW1lIjoiTUlMTEVSIiwiZXhwIjoxNzc4NDQ5NzMwLCJ1c2VySWQiOjYzMSwiaWF0IjoxNzc4NDMxNzMwfQ.Pcryp4yaG6z_9nUVYo7SH_KUOzP4DXaAj9mTUFjqo7QRHOEF6_Tv5DwW-EjDkurjSfsLYfk-Sffbkg2ONPyGYg
+username captured ETHANMILLER
+USERNAME: ETHANMILLER
+TOKEN: eyJhbGciOiJIUzUxMiJ9.eyJVc2VyQWRkcmVzc0xpbmUxIjoiNzQyNSBXZXN0IENvbGZheCBBdmVudWUgU3VpdGUgMjEwIERlbnZlciwgQ08gODAyMTQgVW5pdGVkIFN0YXRlcyIsIlVzZXJBZGRyZXNzTGluZTIiOm51bGwsInN1YiI6IkVUSEFOTUlMTEVSIiwiRW1haWwiOiJldGhhbm1pbGxlcjQ5ODdAZ21haWwuY29tIiwiRmlyc3ROYW1lIjoiRVRIQU4iLCJVc2VyUm9sZSI6W3siaWQiOjEsInJvbGVOYW1lIjoiU0lURV9QQVJUTkVSIiwiZGVzY3JpcHRpb24iOiJTSVRFIFBBUlRORVIifV0sIkxhc3ROYW1lIjoiTUlMTEVSIiwiZXhwIjoxNzc4NDQ5NzMwLCJ1c2VySWQiOjYzMSwiaWF0IjoxNzc4NDMxNzMwfQ.Pcryp4yaG6z_9nUVYo7SH_KUOzP4DXaAj9mTUFjqo7QRHOEF6_Tv5DwW-EjDkurjSfsLYfk-Sffbkg2ONPyGYg
+STATUS: 201
+RESPONSE TEXT: {"id":3916,"couponCode":"SAVE100","effectiveFrom":"2026-05-10T17:55:00","validUpTo":"2026-05-11T17:55:00","shortTitle":"50% Off Sportswear","longDescription":"Get 50% off on top sportswear items","termsAndConditions":null,"partnerId":631,"category":"Sports and Fitness","subCategory":"Team Sports","discount":null,"isAffiliate":false,"states":[],"cities":[],"zipCodes":[],"brandName":"","brandLogo":"https://gavel-test-bucket.s3.us-east-2.amazonaws.com/brand-logos/%2FC3J5OY2.jpg","isFlatDiscount":false,"maxUsages":null,"maxUsagePerUser":null,"enabled":true,"weblink":"https://example.com","count":null,"popularity":null,"disclaimer":"","isSaved":null,"isUsed":null,"isOffline":false,"storeLocationIds":null}
+RESPONSE: {
+  id: 3916,
+  couponCode: 'SAVE100',
+  effectiveFrom: '2026-05-10T17:55:00',
+  validUpTo: '2026-05-11T17:55:00',
+  shortTitle: '50% Off Sportswear',
+  longDescription: 'Get 50% off on top sportswear items',
+  termsAndConditions: null,
+  partnerId: 631,
+  category: 'Sports and Fitness',
+  subCategory: 'Team Sports',
+  discount: null,
+  isAffiliate: false,
+  states: [],
+  cities: [],
+  zipCodes: [],
+  brandName: '',
+  brandLogo: 'https://gavel-test-bucket.s3.us-east-2.amazonaws.com/brand-logos/%2FC3J5OY2.jpg',
+  isFlatDiscount: false,
+  maxUsages: null,
+  maxUsagePerUser: null,
+  enabled: true,
+  weblink: 'https://example.com',
+  count: null,
+  popularity: null,
+  disclaimer: '',
+  isSaved: null,
+  isUsed: null,
+  isOffline: false,
+  storeLocationIds: null
+}

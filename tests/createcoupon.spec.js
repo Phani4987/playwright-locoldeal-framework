@@ -48,7 +48,7 @@ test('TC03 - Create',async({request,apiAuth})=>
     const couponapi = new CouponApi(request,token,username);
     const response =await couponapi.createcoupon(invalidcouponData);
     const responsebody = await response.json();
-    expect(response.status()).toBe(201);
+    expect(response.status()).toBe(404);
     console.log("RESPONSE:", responsebody);
 
 })

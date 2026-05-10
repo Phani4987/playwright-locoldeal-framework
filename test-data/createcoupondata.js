@@ -51,7 +51,7 @@ module.exports = {
     termsAndConditions: null,
     category: "",
     subCategory: "",
-    isOffline: false,
+    isOffline: true,
     storeLocationIds: [],
     couponCode: null,
     weblink: "https://example.com",
