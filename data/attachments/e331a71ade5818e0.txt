@@ -1,0 +1,7 @@
+response {
+  timestamp: '2026-05-10T08:49:19.631+0000',
+  status: 401,
+  error: 'Unauthorized',
+  message: 'Unauthorized',
+  path: '/authenticate'
+}
