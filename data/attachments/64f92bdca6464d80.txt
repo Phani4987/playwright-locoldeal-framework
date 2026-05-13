@@ -1,0 +1,28 @@
+token captured eyJhbGciOiJIUzUxMiJ9.eyJVc2VyQWRkcmVzc0xpbmUxIjpudWxsLCJVc2VyQWRkcmVzc0xpbmUyIjpudWxsLCJzdWIiOiJWdmliZXMiLCJFbWFpbCI6InZ2aWJlczQ3OUBnbWFpbC5jb20iLCJGaXJzdE5hbWUiOiJWVklCRSIsIlVzZXJSb2xlIjpbeyJpZCI6MSwicm9sZU5hbWUiOiJTSVRFX1BBUlRORVIiLCJkZXNjcmlwdGlvbiI6IlNJVEUgUEFSVE5FUiJ9XSwiTGFzdE5hbWUiOiJOQVRIQU4gRUxJU0VFIiwiZXhwIjoxNzc4NjkyODI5LCJ1c2VySWQiOjYxMSwiaWF0IjoxNzc4Njc0ODI5fQ.G1GMVYMTcoo2cl3g9DIXTAIE1Zlg5xOsRqjFdht3wC_dkoeJHLMb7WASf3NqCFWtuH0Zi8lPx1hLeH5DRgeuJw
+username captured Vvibes
+token eyJhbGciOiJIUzUxMiJ9.eyJVc2VyQWRkcmVzc0xpbmUxIjpudWxsLCJVc2VyQWRkcmVzc0xpbmUyIjpudWxsLCJzdWIiOiJWdmliZXMiLCJFbWFpbCI6InZ2aWJlczQ3OUBnbWFpbC5jb20iLCJGaXJzdE5hbWUiOiJWVklCRSIsIlVzZXJSb2xlIjpbeyJpZCI6MSwicm9sZU5hbWUiOiJTSVRFX1BBUlRORVIiLCJkZXNjcmlwdGlvbiI6IlNJVEUgUEFSVE5FUiJ9XSwiTGFzdE5hbWUiOiJOQVRIQU4gRUxJU0VFIiwiZXhwIjoxNzc4NjkyODI5LCJ1c2VySWQiOjYxMSwiaWF0IjoxNzc4Njc0ODI5fQ.G1GMVYMTcoo2cl3g9DIXTAIE1Zlg5xOsRqjFdht3wC_dkoeJHLMb7WASf3NqCFWtuH0Zi8lPx1hLeH5DRgeuJw
+username Vvibes
+Deleting ID: 3975
+https://app.locoldeal.com/coupons/3975?username=Vvibes
+Response: { errorMessage: 'Coupon not found' }
+Coupon 3975 already not present
+Deleting ID: 3978
+https://app.locoldeal.com/coupons/3978?username=Vvibes
+Response: { errorMessage: 'Coupon not found' }
+Coupon 3978 already not present
+Deleting ID: 3973
+https://app.locoldeal.com/coupons/3973?username=Vvibes
+Response: { errorMessage: 'Coupon not found' }
+Coupon 3973 already not present
+Deleting ID: 3974
+https://app.locoldeal.com/coupons/3974?username=Vvibes
+Response: { errorMessage: 'Coupon not found' }
+Coupon 3974 already not present
+Deleting ID: 3976
+https://app.locoldeal.com/coupons/3976?username=Vvibes
+Response: { errorMessage: 'Coupon not found' }
+Coupon 3976 already not present
+Deleting ID: 3977
+https://app.locoldeal.com/coupons/3977?username=Vvibes
+Response: { errorMessage: 'Coupon not found' }
+Coupon 3977 already not present

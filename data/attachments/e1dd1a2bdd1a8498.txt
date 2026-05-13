@@ -1,0 +1,60 @@
+token captured eyJhbGciOiJIUzUxMiJ9.eyJVc2VyQWRkcmVzc0xpbmUxIjpudWxsLCJVc2VyQWRkcmVzc0xpbmUyIjpudWxsLCJzdWIiOiJWdmliZXMiLCJFbWFpbCI6InZ2aWJlczQ3OUBnbWFpbC5jb20iLCJGaXJzdE5hbWUiOiJWVklCRSIsIlVzZXJSb2xlIjpbeyJpZCI6MSwicm9sZU5hbWUiOiJTSVRFX1BBUlRORVIiLCJkZXNjcmlwdGlvbiI6IlNJVEUgUEFSVE5FUiJ9XSwiTGFzdE5hbWUiOiJOQVRIQU4gRUxJU0VFIiwiZXhwIjoxNzc4NjkyODMzLCJ1c2VySWQiOjYxMSwiaWF0IjoxNzc4Njc0ODMzfQ.Npu5vbFLZhdKMLKqMHvp29xLjBrdKg59sq21kL7VWcRtbVGgCe03TKrI1opCgfGjsFlC6uKJA5SDEp1LLnnOKQ
+username captured Vvibes
+token eyJhbGciOiJIUzUxMiJ9.eyJVc2VyQWRkcmVzc0xpbmUxIjpudWxsLCJVc2VyQWRkcmVzc0xpbmUyIjpudWxsLCJzdWIiOiJWdmliZXMiLCJFbWFpbCI6InZ2aWJlczQ3OUBnbWFpbC5jb20iLCJGaXJzdE5hbWUiOiJWVklCRSIsIlVzZXJSb2xlIjpbeyJpZCI6MSwicm9sZU5hbWUiOiJTSVRFX1BBUlRORVIiLCJkZXNjcmlwdGlvbiI6IlNJVEUgUEFSVE5FUiJ9XSwiTGFzdE5hbWUiOiJOQVRIQU4gRUxJU0VFIiwiZXhwIjoxNzc4NjkyODMzLCJ1c2VySWQiOjYxMSwiaWF0IjoxNzc4Njc0ODMzfQ.Npu5vbFLZhdKMLKqMHvp29xLjBrdKg59sq21kL7VWcRtbVGgCe03TKrI1opCgfGjsFlC6uKJA5SDEp1LLnnOKQ
+username Vvibes
+responsebody {
+  locationId: 334,
+  addressLine1: null,
+  addressLine2: null,
+  city: null,
+  state: null,
+  country: null,
+  locationType: 'online',
+  zip: null,
+  storePhoneNumber: '1234567890',
+  storeName: 'visakhapatnam',
+  unit: 0,
+  dealId: 0,
+  sellerUsername: 'Vvibes',
+  longitude: 0,
+  latitude: 0,
+  distance: 0,
+  storeBusinessHour: null,
+  mainImageUrl: null,
+  bannerImages: [],
+  storeImages: [],
+  active: true,
+  created_USER_NM: null,
+  created_DT: '2026-05-13',
+  last_MODIFIED_USER_NM: null,
+  last_MODIFIED_DT: '2026-05-13'
+}
+locationid 334
+responsebody {
+  locationId: 334,
+  addressLine1: null,
+  addressLine2: null,
+  city: null,
+  state: null,
+  country: null,
+  locationType: 'online',
+  zip: null,
+  storePhoneNumber: '1234567890',
+  storeName: 'visakhapatnam',
+  unit: 0,
+  dealId: 0,
+  sellerUsername: 'Vvibes',
+  longitude: 0,
+  latitude: 0,
+  distance: 0,
+  storeBusinessHour: null,
+  mainImageUrl: 'https://gavel-test-bucket.s3.us-east-2.amazonaws.com/store-main-images/334/1778674834474_mainimage.png',
+  bannerImages: [],
+  storeImages: [],
+  active: true,
+  created_USER_NM: null,
+  created_DT: '2026-05-13',
+  last_MODIFIED_USER_NM: null,
+  last_MODIFIED_DT: '2026-05-13'
+}
+responsebody []

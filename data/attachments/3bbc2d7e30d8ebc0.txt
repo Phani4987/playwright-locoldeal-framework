@@ -1,0 +1,34 @@
+token captured eyJhbGciOiJIUzUxMiJ9.eyJVc2VyQWRkcmVzc0xpbmUxIjoiNzQyNSBXZXN0IENvbGZheCBBdmVudWUgU3VpdGUgMjEwIERlbnZlciwgQ08gODAyMTQgVW5pdGVkIFN0YXRlcyIsIlVzZXJBZGRyZXNzTGluZTIiOm51bGwsInN1YiI6IkVUSEFOTUlMTEVSIiwiRW1haWwiOiJldGhhbm1pbGxlcjQ5ODdAZ21haWwuY29tIiwiRmlyc3ROYW1lIjoiRVRIQU4iLCJVc2VyUm9sZSI6W3siaWQiOjEsInJvbGVOYW1lIjoiU0lURV9QQVJUTkVSIiwiZGVzY3JpcHRpb24iOiJTSVRFIFBBUlRORVIifV0sIkxhc3ROYW1lIjoiTUlMTEVSIiwiZXhwIjoxNzc4NjcxOTU2LCJ1c2VySWQiOjYzMSwiaWF0IjoxNzc4NjUzOTU2fQ.vkNS10d1C0A96ldBTGNF8Aol4TJgCH0PE2jWHXC74oumkksCA-cmia9sjQqO_gl5uiz0ien2vn0n5EUDerU_wg
+username captured ETHANMILLER
+APIResponse: 200 OK
+  Date: Wed, 13 May 2026 06:32:39 GMT
+  Content-Type: application/json;charset=UTF-8
+  Content-Length: 1143
+  Connection: keep-alive
+  Server: cloudflare
+  Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+  access-control-allow-origin: *
+  Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, HEAD
+  Access-Control-Allow-Headers: Origin, Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers, authorization
+  Access-Control-Expose-Headers: Access-Control-Allow-Origin, Access-Control-Allow-Credentials
+  Access-Control-Allow-Credentials: true
+  Access-Control-Max-Age: 10
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 1; mode=block
+  Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+  Pragma: no-cache
+  Expires: 0
+  Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+  X-Frame-Options: DENY
+  Vary: Accept-Encoding
+  Content-Encoding: gzip
+  cf-cache-status: DYNAMIC
+  Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2FvjJPGOLNlquUF8Qvhll4ya%2FsdbkBTCDGgEAHO4IGzWFeLpA8we0juCqyCtOk0GPTc0pITNf7xuIeGq49cJotcTrw3USOzIpGTwsCDyAEBmHEUQBnIvxFe51JYJsZDc8Uqm9Kw%3D%3D"}]}
+  CF-RAY: 9fafa07b787dc1d3-HYD
+  alt-svc: h3=":443"; ma=86400
+[
+  159, 280, 283, 286, 305,
+  317, 318, 319, 320, 321,
+  322, 323, 325, 326, 327,
+  329, 330, 331
+]
