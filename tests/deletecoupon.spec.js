@@ -15,7 +15,6 @@ test.describe('DELETE COUPON FLOW',()=>
         console.log('token',token);
         console.log('username',username);
 
-        // ONLY CHANGE: loop added for multiple IDs
         for (let id of ids) {
 
             console.log("Deleting ID:", id);

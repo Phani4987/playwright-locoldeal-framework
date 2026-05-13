@@ -1,0 +1,16 @@
+{"offlinecoupondata": {
+    "brandName": "",
+    "shortTitle": "Test coupon 5/13/26",
+    "longDescription": "Test coupon not for sale",
+    "disclaimer": "",
+    "category": "Sports and Fitness",
+    "subCategory": "Yoga and Pilates",
+    "isOffline": true,
+    "storeLocationIds": [333],
+    "couponCode": "SAVE0",
+    "isAffiliate": false,
+    "effectiveFrom": "2026-05-12T17:55:00",
+    "validUpTo": "2026-05-20T17:55:00",
+    "enabled": true
+  }
+}

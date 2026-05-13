@@ -13,7 +13,7 @@ const storeid = require('../test-data/storeids.json');
 
 test.describe('STORE CREATION FOR BOTH ONLINE AND OFFLINE STORES',()=>
 {
-    test.skip('TC01 ONLINE STORE CREATION WITH OUT ANYY IMAGES',async({request,apiAuth})=>
+    test('TC01 ONLINE STORE CREATION WITH OUT ANYY IMAGES',async({request,apiAuth})=>
     {   
         const {token,username} = apiAuth;
         console.log('token',token);
@@ -82,7 +82,7 @@ test.describe('STORE CREATION FOR BOTH ONLINE AND OFFLINE STORES',()=>
         )
 
     })
-    test('Store delete',async ({request,apiAuth})=>
+    test.skip('Store delete',async ({request,apiAuth})=>
     {
         const{token,username} = apiAuth;
         const Storeapi = new storeapi(request,token,username);

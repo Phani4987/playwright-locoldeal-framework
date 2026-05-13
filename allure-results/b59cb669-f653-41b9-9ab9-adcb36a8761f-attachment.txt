@@ -1,0 +1,35 @@
+token captured eyJhbGciOiJIUzUxMiJ9.eyJVc2VyQWRkcmVzc0xpbmUxIjpudWxsLCJVc2VyQWRkcmVzc0xpbmUyIjpudWxsLCJzdWIiOiJWdmliZXMiLCJFbWFpbCI6InZ2aWJlczQ3OUBnbWFpbC5jb20iLCJGaXJzdE5hbWUiOiJWVklCRSIsIlVzZXJSb2xlIjpbeyJpZCI6MSwicm9sZU5hbWUiOiJTSVRFX1BBUlRORVIiLCJkZXNjcmlwdGlvbiI6IlNJVEUgUEFSVE5FUiJ9XSwiTGFzdE5hbWUiOiJOQVRIQU4gRUxJU0VFIiwiZXhwIjoxNzc4NjgzMzM2LCJ1c2VySWQiOjYxMSwiaWF0IjoxNzc4NjY1MzM2fQ.wK_k4TCk-ZZMhjKVMm8H6QJ6rAoXk5bkAS5-xRy3ZyqhBffGvqLi43PvTsk8ZtpH2eOWeal0Pw2a1Y4AWP3oIQ
+username captured Vvibes
+USERNAME: Vvibes
+STATUS: 201
+RESPONSE: {
+  id: 3965,
+  couponCode: 'SAVE100',
+  effectiveFrom: '2026-05-10T17:55:00',
+  validUpTo: '2026-05-11T17:55:00',
+  shortTitle: '50% Off Sportswear',
+  longDescription: 'Get 50% off on top sportswear items',
+  termsAndConditions: null,
+  partnerId: 611,
+  category: 'Sports and Fitness',
+  subCategory: 'Team Sports',
+  discount: null,
+  isAffiliate: false,
+  states: [],
+  cities: [],
+  zipCodes: [],
+  brandName: '',
+  brandLogo: 'https://gavel-test-bucket.s3.us-east-2.amazonaws.com/brand-logos/%2FC3J5OY2.jpg',
+  isFlatDiscount: false,
+  maxUsages: null,
+  maxUsagePerUser: null,
+  enabled: true,
+  weblink: 'https://example.com',
+  count: null,
+  popularity: null,
+  disclaimer: '',
+  isSaved: null,
+  isUsed: null,
+  isOffline: false,
+  storeLocationIds: null
+}
