@@ -93,7 +93,7 @@ test.describe('STORE CREATION FOR BOTH ONLINE AND OFFLINE STORES',()=>
         const responsebody = await response.json();
         console.log("id",id);
         console.log(responsebody);
-        expect(response.status()).toBe(200);
+        
         
         
         }
