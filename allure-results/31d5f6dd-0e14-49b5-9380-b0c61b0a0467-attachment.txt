@@ -1,0 +1,338 @@
+token captured eyJhbGciOiJIUzUxMiJ9.eyJVc2VyQWRkcmVzc0xpbmUxIjoiNzQyNSBXZXN0IENvbGZheCBBdmVudWUgU3VpdGUgMjEwIERlbnZlciwgQ08gODAyMTQgVW5pdGVkIFN0YXRlcyIsIlVzZXJBZGRyZXNzTGluZTIiOm51bGwsInN1YiI6IkVUSEFOTUlMTEVSIiwiRW1haWwiOiJldGhhbm1pbGxlcjQ5ODdAZ21haWwuY29tIiwiRmlyc3ROYW1lIjoiRVRIQU4iLCJVc2VyUm9sZSI6W3siaWQiOjEsInJvbGVOYW1lIjoiU0lURV9QQVJUTkVSIiwiZGVzY3JpcHRpb24iOiJTSVRFIFBBUlRORVIifV0sIkxhc3ROYW1lIjoiTUlMTEVSIiwiZXhwIjoxNzc4NjczMDYyLCJ1c2VySWQiOjYzMSwiaWF0IjoxNzc4NjU1MDYyfQ.JMvkFtjDn6f_shG5tXiTv5IOEKER_6c8NmiA7zwEGekcfhJsdfo8CEByB1y_lSUjPwoTZFm5nDQtZQdKX9plUQ
+username captured ETHANMILLER
+APIResponse: 200 OK
+  Date: Wed, 13 May 2026 06:51:04 GMT
+  Content-Type: application/json;charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  Server: cloudflare
+  Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+  access-control-allow-origin: *
+  Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, HEAD
+  Access-Control-Allow-Headers: Origin, Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers, authorization
+  Access-Control-Expose-Headers: Access-Control-Allow-Origin, Access-Control-Allow-Credentials
+  Access-Control-Allow-Credentials: true
+  Access-Control-Max-Age: 10
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 1; mode=block
+  Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+  Pragma: no-cache
+  Expires: 0
+  Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+  X-Frame-Options: DENY
+  Vary: Accept-Encoding
+  Content-Encoding: gzip
+  cf-cache-status: DYNAMIC
+  Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=bpfOfA8AOu%2FLh8K6NRAgfwVmgOZFvPhvxTXDfhbUwQaRn8GWZWia%2FcWutyGAJWZ42PnE0qqP3As7gV75QumHXpNRsA9NFVfEyjQnOK3qrTG1d8qbTFmUC4mWejHET7jje2QFaA%3D%3D"}]}
+  CF-RAY: 9fafbb7c6e3e2ce5-HYD
+  alt-svc: h3=":443"; ma=86400
+id 317
+{ message: 'Store Location id :317 deleted successfully' }
+APIResponse: 200 OK
+  Date: Wed, 13 May 2026 06:51:05 GMT
+  Content-Type: application/json;charset=UTF-8
+  Content-Length: 76
+  Connection: keep-alive
+  Server: cloudflare
+  Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+  access-control-allow-origin: *
+  Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, HEAD
+  Access-Control-Allow-Headers: Origin, Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers, authorization
+  Access-Control-Expose-Headers: Access-Control-Allow-Origin, Access-Control-Allow-Credentials
+  Access-Control-Allow-Credentials: true
+  Access-Control-Max-Age: 10
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 1; mode=block
+  Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+  Pragma: no-cache
+  Expires: 0
+  Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+  X-Frame-Options: DENY
+  Vary: Accept-Encoding
+  Content-Encoding: gzip
+  cf-cache-status: DYNAMIC
+  Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=MDp1tLFVAV3QmAHeA7z4Pi%2F9348IjjBIRtdGehgFAR2AvAxErRqIvUz%2BYwHoKbO8PWaGyq%2BlNyk2eMcKWdlXB%2BKpCaTc46Zj18LI%2Fxhj6Y5TZwh02jNIBR5R4f9iUjm%2FZ7xN0A%3D%3D"}]}
+  CF-RAY: 9fafbb871d282ce5-HYD
+  alt-svc: h3=":443"; ma=86400
+id 318
+{ message: 'Store Location id :318 deleted successfully' }
+APIResponse: 200 OK
+  Date: Wed, 13 May 2026 06:51:07 GMT
+  Content-Type: application/json;charset=UTF-8
+  Content-Length: 76
+  Connection: keep-alive
+  Server: cloudflare
+  Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+  access-control-allow-origin: *
+  Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, HEAD
+  Access-Control-Allow-Headers: Origin, Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers, authorization
+  Access-Control-Expose-Headers: Access-Control-Allow-Origin, Access-Control-Allow-Credentials
+  Access-Control-Allow-Credentials: true
+  Access-Control-Max-Age: 10
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 1; mode=block
+  Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+  Pragma: no-cache
+  Expires: 0
+  Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+  X-Frame-Options: DENY
+  Vary: Accept-Encoding
+  Content-Encoding: gzip
+  cf-cache-status: DYNAMIC
+  Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=bT05NMb6H%2BJrYDHmhpBuuI6i0iGs0K7Eb0Q2qQu2tQ7hzK8%2BNR5p%2BHuxTBqXBBl8EqWKS4kypbdDkl2OsDirhxildC8YjC%2BHLnNc25WB41gWNqxhptU7Y6Is4fD1y91mKBxyZg%3D%3D"}]}
+  CF-RAY: 9fafbb91bb7c2ce5-HYD
+  alt-svc: h3=":443"; ma=86400
+id 319
+{ message: 'Store Location id :319 deleted successfully' }
+APIResponse: 200 OK
+  Date: Wed, 13 May 2026 06:51:09 GMT
+  Content-Type: application/json;charset=UTF-8
+  Content-Length: 76
+  Connection: keep-alive
+  Server: cloudflare
+  Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+  access-control-allow-origin: *
+  Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, HEAD
+  Access-Control-Allow-Headers: Origin, Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers, authorization
+  Access-Control-Expose-Headers: Access-Control-Allow-Origin, Access-Control-Allow-Credentials
+  Access-Control-Allow-Credentials: true
+  Access-Control-Max-Age: 10
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 1; mode=block
+  Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+  Pragma: no-cache
+  Expires: 0
+  Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+  X-Frame-Options: DENY
+  Vary: Accept-Encoding
+  Content-Encoding: gzip
+  cf-cache-status: DYNAMIC
+  Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=uK4EiKAkh%2BUBO4dNv19w%2BG4mIS5fUBlxofosjLPxZOmv19mtABQluxXeUT3WuksK5RhRL2pkLS0tm4jLkq003nojLZsbGC9TbZg9wGYAsLihmmNArwtHoABVtJoR5MCtihzrKQ%3D%3D"}]}
+  CF-RAY: 9fafbb9c6abe2ce5-HYD
+  alt-svc: h3=":443"; ma=86400
+id 321
+{ message: 'Store Location id :321 deleted successfully' }
+APIResponse: 200 OK
+  Date: Wed, 13 May 2026 06:51:11 GMT
+  Content-Type: application/json;charset=UTF-8
+  Content-Length: 76
+  Connection: keep-alive
+  Server: cloudflare
+  Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+  access-control-allow-origin: *
+  Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, HEAD
+  Access-Control-Allow-Headers: Origin, Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers, authorization
+  Access-Control-Expose-Headers: Access-Control-Allow-Origin, Access-Control-Allow-Credentials
+  Access-Control-Allow-Credentials: true
+  Access-Control-Max-Age: 10
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 1; mode=block
+  Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+  Pragma: no-cache
+  Expires: 0
+  Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+  X-Frame-Options: DENY
+  Vary: Accept-Encoding
+  Content-Encoding: gzip
+  cf-cache-status: DYNAMIC
+  Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=ortQdrrfhte4WYpWpJYuNb3K8dPIEeg6Y8hPRx2w3zSrJwWt5IcMkFB7%2BV%2BumGTQw3%2F%2FvXVcp615NuGtRWLT47TnZQq%2F5VC%2Bv5cEhLYJObJVH0gfzR2mQKF%2BoAMhYRNitFMEJg%3D%3D"}]}
+  CF-RAY: 9fafbba7b9c22ce5-HYD
+  alt-svc: h3=":443"; ma=86400
+id 322
+{ message: 'Store Location id :322 deleted successfully' }
+APIResponse: 200 OK
+  Date: Wed, 13 May 2026 06:51:12 GMT
+  Content-Type: application/json;charset=UTF-8
+  Content-Length: 76
+  Connection: keep-alive
+  Server: cloudflare
+  Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+  access-control-allow-origin: *
+  Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, HEAD
+  Access-Control-Allow-Headers: Origin, Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers, authorization
+  Access-Control-Expose-Headers: Access-Control-Allow-Origin, Access-Control-Allow-Credentials
+  Access-Control-Allow-Credentials: true
+  Access-Control-Max-Age: 10
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 1; mode=block
+  Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+  Pragma: no-cache
+  Expires: 0
+  Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+  X-Frame-Options: DENY
+  Vary: Accept-Encoding
+  Content-Encoding: gzip
+  cf-cache-status: DYNAMIC
+  Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=qv764vVmOqgKAdBWswLuSTTGp60CyRHyS02wNLn9eVBSYAdEYat2P0Nh1w9X913QPRgWR%2Be63EnyOQdLf3mkspKHr7Y%2F6j5GmfmL6SX3K7rz0O31eLbj31U9BVwlBuCbGz6wnw%3D%3D"}]}
+  CF-RAY: 9fafbbb28f372ce5-HYD
+  alt-svc: h3=":443"; ma=86400
+id 323
+{ message: 'Store Location id :323 deleted successfully' }
+APIResponse: 200 OK
+  Date: Wed, 13 May 2026 06:51:14 GMT
+  Content-Type: application/json;charset=UTF-8
+  Content-Length: 76
+  Connection: keep-alive
+  Server: cloudflare
+  Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+  access-control-allow-origin: *
+  Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, HEAD
+  Access-Control-Allow-Headers: Origin, Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers, authorization
+  Access-Control-Expose-Headers: Access-Control-Allow-Origin, Access-Control-Allow-Credentials
+  Access-Control-Allow-Credentials: true
+  Access-Control-Max-Age: 10
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 1; mode=block
+  Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+  Pragma: no-cache
+  Expires: 0
+  Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+  X-Frame-Options: DENY
+  Vary: Accept-Encoding
+  Content-Encoding: gzip
+  cf-cache-status: DYNAMIC
+  Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=TJygJSf10VKYgyxX%2Fqqmv3QVPSLpbpUuhUErAdvyiBamgTYVVMzgn51q7o9GkyFm6sqrlCsTuFjBhjFo5hRhXez9IQB%2FM8q4Pg3fcLWBnpEVJ2ySJnV%2F%2F%2BmTQELkyr2x4yGKgA%3D%3D"}]}
+  CF-RAY: 9fafbbbd3d952ce5-HYD
+  alt-svc: h3=":443"; ma=86400
+id 325
+{ message: 'Store Location id :325 deleted successfully' }
+APIResponse: 200 OK
+  Date: Wed, 13 May 2026 06:51:16 GMT
+  Content-Type: application/json;charset=UTF-8
+  Content-Length: 76
+  Connection: keep-alive
+  Server: cloudflare
+  Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+  access-control-allow-origin: *
+  Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, HEAD
+  Access-Control-Allow-Headers: Origin, Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers, authorization
+  Access-Control-Expose-Headers: Access-Control-Allow-Origin, Access-Control-Allow-Credentials
+  Access-Control-Allow-Credentials: true
+  Access-Control-Max-Age: 10
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 1; mode=block
+  Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+  Pragma: no-cache
+  Expires: 0
+  Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+  X-Frame-Options: DENY
+  Vary: Accept-Encoding
+  Content-Encoding: gzip
+  cf-cache-status: DYNAMIC
+  Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=%2Ba6CwLFr2v%2BF15JCBkkUxVhoufwVA70WTlYS7rL%2ByYl0V%2BYQn4%2F8U2kAauIkzHG2tHW7%2FaCpjA9CdRp%2FMyyCCSYwfOuqcwx0ciT32qlsgot%2FYrKIchRf3KaCc21uTcwPafTFOw%3D%3D"}]}
+  CF-RAY: 9fafbbc84ca92ce5-HYD
+  alt-svc: h3=":443"; ma=86400
+id 326
+{ message: 'Store Location id :326 deleted successfully' }
+APIResponse: 200 OK
+  Date: Wed, 13 May 2026 06:51:18 GMT
+  Content-Type: application/json;charset=UTF-8
+  Content-Length: 76
+  Connection: keep-alive
+  Server: cloudflare
+  Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+  access-control-allow-origin: *
+  Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, HEAD
+  Access-Control-Allow-Headers: Origin, Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers, authorization
+  Access-Control-Expose-Headers: Access-Control-Allow-Origin, Access-Control-Allow-Credentials
+  Access-Control-Allow-Credentials: true
+  Access-Control-Max-Age: 10
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 1; mode=block
+  Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+  Pragma: no-cache
+  Expires: 0
+  Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+  X-Frame-Options: DENY
+  Vary: Accept-Encoding
+  Content-Encoding: gzip
+  cf-cache-status: DYNAMIC
+  Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=jFuuYwq2Ce0JUv%2BPeFljZtqLv5M8u0%2Bu9B1Iux2JMghIeN%2FjVlJsHn4b%2BEhEH%2BDI0gK3XVYObVKobQSJqPliB4jKAOnlli2QxvuEmf7%2FDJHqSzaOBDc%2BuCbChrTHdJ%2FFnuCjKQ%3D%3D"}]}
+  CF-RAY: 9fafbbd37ac42ce5-HYD
+  alt-svc: h3=":443"; ma=86400
+id 327
+{ message: 'Store Location id :327 deleted successfully' }
+APIResponse: 200 OK
+  Date: Wed, 13 May 2026 06:51:19 GMT
+  Content-Type: application/json;charset=UTF-8
+  Content-Length: 76
+  Connection: keep-alive
+  Server: cloudflare
+  Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+  access-control-allow-origin: *
+  Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, HEAD
+  Access-Control-Allow-Headers: Origin, Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers, authorization
+  Access-Control-Expose-Headers: Access-Control-Allow-Origin, Access-Control-Allow-Credentials
+  Access-Control-Allow-Credentials: true
+  Access-Control-Max-Age: 10
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 1; mode=block
+  Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+  Pragma: no-cache
+  Expires: 0
+  Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+  X-Frame-Options: DENY
+  Vary: Accept-Encoding
+  Content-Encoding: gzip
+  cf-cache-status: DYNAMIC
+  Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=qKlZSRU76nCL5yMvOgqZq0oIJnObo47OjPVNwSnQgjAnDWI9DBlggrVaOjchRLZ%2FBUQPxi6GCbCQE04pwV7n9ZaQ8KX%2BEHG2f8WjMN4GyBLl0cXwGqxK8bIvJOeQGagFWhtx2w%3D%3D"}]}
+  CF-RAY: 9fafbbdeb90b2ce5-HYD
+  alt-svc: h3=":443"; ma=86400
+id 329
+{ message: 'Store Location id :329 deleted successfully' }
+APIResponse: 200 OK
+  Date: Wed, 13 May 2026 06:51:21 GMT
+  Content-Type: application/json;charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  Server: cloudflare
+  Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+  access-control-allow-origin: *
+  Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, HEAD
+  Access-Control-Allow-Headers: Origin, Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers, authorization
+  Access-Control-Expose-Headers: Access-Control-Allow-Origin, Access-Control-Allow-Credentials
+  Access-Control-Allow-Credentials: true
+  Access-Control-Max-Age: 10
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 1; mode=block
+  Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+  Pragma: no-cache
+  Expires: 0
+  Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+  X-Frame-Options: DENY
+  Vary: Accept-Encoding
+  Content-Encoding: gzip
+  cf-cache-status: DYNAMIC
+  Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=kuOFfRxAcS%2BpPUz%2FC0M%2BHzsvtY2F2Ea2WdxWe9pYu5gYTC9fheMvACmOe4po%2BCyNQe82uk%2BWxZAtOpy5OjugFk%2FTEmIazgWVOwlN%2FFHL2oPSM6wIs9A7MRD%2Bm69DTbLqQFhMqg%3D%3D"}]}
+  CF-RAY: 9fafbbe96eea2ce5-HYD
+  alt-svc: h3=":443"; ma=86400
+id 330
+{ message: 'Store Location id :330 deleted successfully' }
+APIResponse: 200 OK
+  Date: Wed, 13 May 2026 06:51:23 GMT
+  Content-Type: application/json;charset=UTF-8
+  Content-Length: 76
+  Connection: keep-alive
+  Server: cloudflare
+  Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+  access-control-allow-origin: *
+  Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, HEAD
+  Access-Control-Allow-Headers: Origin, Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers, authorization
+  Access-Control-Expose-Headers: Access-Control-Allow-Origin, Access-Control-Allow-Credentials
+  Access-Control-Allow-Credentials: true
+  Access-Control-Max-Age: 10
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 1; mode=block
+  Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+  Pragma: no-cache
+  Expires: 0
+  Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+  X-Frame-Options: DENY
+  Vary: Accept-Encoding
+  Content-Encoding: gzip
+  cf-cache-status: DYNAMIC
+  Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=pM3oPB3cyM8kVetgGX8BB3tni30cK%2FdUb5HNWDxlG3B62qu4iss6ovpM04Mp6cjbqI0ikqWpVmvxLS6W%2FsdmahmgP51fhIgda7lrTwde6C3yfjYcNbTiWURZzppjoDjwe%2FQeng%3D%3D"}]}
+  CF-RAY: 9fafbbf51d932ce5-HYD
+  alt-svc: h3=":443"; ma=86400
+id 331
+{ message: 'Store Location id :331 deleted successfully' }

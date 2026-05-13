@@ -1,0 +1,66 @@
+token captured eyJhbGciOiJIUzUxMiJ9.eyJVc2VyQWRkcmVzc0xpbmUxIjoiNzQyNSBXZXN0IENvbGZheCBBdmVudWUgU3VpdGUgMjEwIERlbnZlciwgQ08gODAyMTQgVW5pdGVkIFN0YXRlcyIsIlVzZXJBZGRyZXNzTGluZTIiOm51bGwsInN1YiI6IkVUSEFOTUlMTEVSIiwiRW1haWwiOiJldGhhbm1pbGxlcjQ5ODdAZ21haWwuY29tIiwiRmlyc3ROYW1lIjoiRVRIQU4iLCJVc2VyUm9sZSI6W3siaWQiOjEsInJvbGVOYW1lIjoiU0lURV9QQVJUTkVSIiwiZGVzY3JpcHRpb24iOiJTSVRFIFBBUlRORVIifV0sIkxhc3ROYW1lIjoiTUlMTEVSIiwiZXhwIjoxNzc4NjE5Nzk2LCJ1c2VySWQiOjYzMSwiaWF0IjoxNzc4NjAxNzk2fQ.3_BjtwW7sgoO_l1-iXCh_WXW4abkufOE1m47dsovHeZk1XTQLCl39Lwvd2mzZeel1bbRZYi-b3Mm2LJzI2HU8g
+username captured ETHANMILLER
+token eyJhbGciOiJIUzUxMiJ9.eyJVc2VyQWRkcmVzc0xpbmUxIjoiNzQyNSBXZXN0IENvbGZheCBBdmVudWUgU3VpdGUgMjEwIERlbnZlciwgQ08gODAyMTQgVW5pdGVkIFN0YXRlcyIsIlVzZXJBZGRyZXNzTGluZTIiOm51bGwsInN1YiI6IkVUSEFOTUlMTEVSIiwiRW1haWwiOiJldGhhbm1pbGxlcjQ5ODdAZ21haWwuY29tIiwiRmlyc3ROYW1lIjoiRVRIQU4iLCJVc2VyUm9sZSI6W3siaWQiOjEsInJvbGVOYW1lIjoiU0lURV9QQVJUTkVSIiwiZGVzY3JpcHRpb24iOiJTSVRFIFBBUlRORVIifV0sIkxhc3ROYW1lIjoiTUlMTEVSIiwiZXhwIjoxNzc4NjE5Nzk2LCJ1c2VySWQiOjYzMSwiaWF0IjoxNzc4NjAxNzk2fQ.3_BjtwW7sgoO_l1-iXCh_WXW4abkufOE1m47dsovHeZk1XTQLCl39Lwvd2mzZeel1bbRZYi-b3Mm2LJzI2HU8g
+username ETHANMILLER
+responsebody {
+  locationId: 319,
+  addressLine1: null,
+  addressLine2: null,
+  city: null,
+  state: null,
+  country: null,
+  locationType: 'online',
+  zip: null,
+  storePhoneNumber: '1234567890',
+  storeName: 'visakhapatnam',
+  unit: 0,
+  dealId: 0,
+  sellerUsername: 'ETHANMILLER',
+  longitude: 0,
+  latitude: 0,
+  distance: 0,
+  storeBusinessHour: null,
+  mainImageUrl: null,
+  bannerImages: [],
+  storeImages: [],
+  active: true,
+  created_USER_NM: null,
+  created_DT: '2026-05-12',
+  last_MODIFIED_USER_NM: null,
+  last_MODIFIED_DT: '2026-05-12'
+}
+locationid 319
+responsebody {
+  locationId: 319,
+  addressLine1: null,
+  addressLine2: null,
+  city: null,
+  state: null,
+  country: null,
+  locationType: 'online',
+  zip: null,
+  storePhoneNumber: '1234567890',
+  storeName: 'visakhapatnam',
+  unit: 0,
+  dealId: 0,
+  sellerUsername: 'ETHANMILLER',
+  longitude: 0,
+  latitude: 0,
+  distance: 0,
+  storeBusinessHour: null,
+  mainImageUrl: 'https://gavel-test-bucket.s3.us-east-2.amazonaws.com/store-main-images/319/1778601798512_mainimage.png',
+  bannerImages: [],
+  storeImages: [],
+  active: true,
+  created_USER_NM: null,
+  created_DT: '2026-05-12',
+  last_MODIFIED_USER_NM: null,
+  last_MODIFIED_DT: '2026-05-12'
+}
+responsebody {
+  timestamp: '2026-05-12T16:03:19.639+0000',
+  status: 405,
+  error: 'Method Not Allowed',
+  message: "Request method 'PUT' not supported",
+  path: '/storeLocation/banner'
+}

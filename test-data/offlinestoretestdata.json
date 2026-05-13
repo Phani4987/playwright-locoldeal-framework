@@ -1,0 +1,15 @@
+{
+    "payload":
+    {
+    "addressLine1": "rk beach visakhapatnam",
+    "addressLine2": "optional",
+    "city": "Mobile",
+    "state": "Alabama",
+    "country": "United States",
+    "locationType": "offline",
+    "zip": "55555",
+    "storePhoneNumber": "1234567891",
+    "storeName": "Visakhapatnam"
+    
+    }
+}

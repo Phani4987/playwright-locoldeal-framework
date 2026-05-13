@@ -1,0 +1,31 @@
+token captured eyJhbGciOiJIUzUxMiJ9.eyJVc2VyQWRkcmVzc0xpbmUxIjoiNzQyNSBXZXN0IENvbGZheCBBdmVudWUgU3VpdGUgMjEwIERlbnZlciwgQ08gODAyMTQgVW5pdGVkIFN0YXRlcyIsIlVzZXJBZGRyZXNzTGluZTIiOm51bGwsInN1YiI6IkVUSEFOTUlMTEVSIiwiRW1haWwiOiJldGhhbm1pbGxlcjQ5ODdAZ21haWwuY29tIiwiRmlyc3ROYW1lIjoiRVRIQU4iLCJVc2VyUm9sZSI6W3siaWQiOjEsInJvbGVOYW1lIjoiU0lURV9QQVJUTkVSIiwiZGVzY3JpcHRpb24iOiJTSVRFIFBBUlRORVIifV0sIkxhc3ROYW1lIjoiTUlMTEVSIiwiZXhwIjoxNzc4NjExMjM1LCJ1c2VySWQiOjYzMSwiaWF0IjoxNzc4NTkzMjM1fQ.pBqfNTs_AA5xhSUt2Dg9C1RzxE-_woydyVf9lmwijynK4aZ-cIY8Bo5HVjBfpEf3D4q-Jfm0dfQq8Bhg4ywHDg
+username captured ETHANMILLER
+token eyJhbGciOiJIUzUxMiJ9.eyJVc2VyQWRkcmVzc0xpbmUxIjoiNzQyNSBXZXN0IENvbGZheCBBdmVudWUgU3VpdGUgMjEwIERlbnZlciwgQ08gODAyMTQgVW5pdGVkIFN0YXRlcyIsIlVzZXJBZGRyZXNzTGluZTIiOm51bGwsInN1YiI6IkVUSEFOTUlMTEVSIiwiRW1haWwiOiJldGhhbm1pbGxlcjQ5ODdAZ21haWwuY29tIiwiRmlyc3ROYW1lIjoiRVRIQU4iLCJVc2VyUm9sZSI6W3siaWQiOjEsInJvbGVOYW1lIjoiU0lURV9QQVJUTkVSIiwiZGVzY3JpcHRpb24iOiJTSVRFIFBBUlRORVIifV0sIkxhc3ROYW1lIjoiTUlMTEVSIiwiZXhwIjoxNzc4NjExMjM1LCJ1c2VySWQiOjYzMSwiaWF0IjoxNzc4NTkzMjM1fQ.pBqfNTs_AA5xhSUt2Dg9C1RzxE-_woydyVf9lmwijynK4aZ-cIY8Bo5HVjBfpEf3D4q-Jfm0dfQq8Bhg4ywHDg
+username ETHANMILLER
+responsebody {
+  locationId: 305,
+  addressLine1: 'Benguluru whitefield near white field',
+  addressLine2: 'optional',
+  city: 'Mobile',
+  state: 'Alabama',
+  country: 'United States',
+  locationType: 'offline',
+  zip: '55555',
+  storePhoneNumber: '1234567891',
+  storeName: 'denver',
+  unit: 0,
+  dealId: 0,
+  sellerUsername: 'ETHANMILLER',
+  longitude: 0,
+  latitude: 0,
+  distance: 0,
+  storeBusinessHour: null,
+  mainImageUrl: null,
+  bannerImages: [],
+  storeImages: [],
+  active: true,
+  created_USER_NM: null,
+  created_DT: '2026-05-12',
+  last_MODIFIED_USER_NM: null,
+  last_MODIFIED_DT: '2026-05-12'
+}

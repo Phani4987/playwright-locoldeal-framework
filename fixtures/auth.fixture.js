@@ -3,6 +3,7 @@ const Authapi = require('../apis/authapi');
 const testdata = require('../test-data/partnersignindata.json');
 
 const test = base.extend({
+
     apiAuth: async ({ request }, use) => {
         const authApi = new Authapi(request);
 
@@ -20,8 +21,11 @@ const test = base.extend({
 
         console.log("token captured", token);
         console.log("username captured", username);
-        await use({ token, username }); 
-    }
+
+        await use({ token, username });
+    },
+
+   
 });
 
 module.exports = { test, expect };

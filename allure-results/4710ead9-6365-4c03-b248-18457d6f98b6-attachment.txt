@@ -1,0 +1,27 @@
+token captured eyJhbGciOiJIUzUxMiJ9.eyJVc2VyQWRkcmVzc0xpbmUxIjoiNzQyNSBXZXN0IENvbGZheCBBdmVudWUgU3VpdGUgMjEwIERlbnZlciwgQ08gODAyMTQgVW5pdGVkIFN0YXRlcyIsIlVzZXJBZGRyZXNzTGluZTIiOm51bGwsInN1YiI6IkVUSEFOTUlMTEVSIiwiRW1haWwiOiJldGhhbm1pbGxlcjQ5ODdAZ21haWwuY29tIiwiRmlyc3ROYW1lIjoiRVRIQU4iLCJVc2VyUm9sZSI6W3siaWQiOjEsInJvbGVOYW1lIjoiU0lURV9QQVJUTkVSIiwiZGVzY3JpcHRpb24iOiJTSVRFIFBBUlRORVIifV0sIkxhc3ROYW1lIjoiTUlMTEVSIiwiZXhwIjoxNzc4NjcyNjExLCJ1c2VySWQiOjYzMSwiaWF0IjoxNzc4NjU0NjExfQ.1ZXpBnYYi2YiRN14DyncQBQONrcsMeJeJaQNHAA-xKy0NO7LRizAMrAfKLh-Qycg2JlG0-WJLX3mPsmCide14g
+username captured ETHANMILLER
+APIResponse: 404 Not Found
+  Date: Wed, 13 May 2026 06:43:32 GMT
+  Content-Type: application/json;charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  Server: cloudflare
+  Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+  access-control-allow-origin: *
+  Access-Control-Allow-Methods: GET, POST, DELETE, PUT, PATCH, HEAD
+  Access-Control-Allow-Headers: Origin, Accept, X-Requested-With, Content-Type, Access-Control-Request-Method, Access-Control-Request-Headers, authorization
+  Access-Control-Expose-Headers: Access-Control-Allow-Origin, Access-Control-Allow-Credentials
+  Access-Control-Allow-Credentials: true
+  Access-Control-Max-Age: 10
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 1; mode=block
+  Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+  Pragma: no-cache
+  Expires: 0
+  Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+  X-Frame-Options: DENY
+  cf-cache-status: DYNAMIC
+  Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=BdUMkhssw8FwDQ1B%2FKh4FDS7H5HqEzpJl2cxZj%2ByzUGFzsHYv%2F8pq96z2Bw0UHcIuKK1MDQxdzZC5EXmCQCyv2rtN%2BZEdk%2BAfoFZywnMy0T7OoOisaNBgSgstH%2BMrRQT%2BGAZLQ%3D%3D"}]}
+  Content-Encoding: br
+  CF-RAY: 9fafb07c6ea13c94-BOM
+  alt-svc: h3=":443"; ma=86400
